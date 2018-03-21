@@ -1,0 +1,15 @@
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.Resources.resources
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.teachingManagementSystem.resources
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.vbproj.GenerateResource.Cache
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.vbproj.CoreCompileInputs.cache
+D:\workspace for VB\TeachingProgram\TeachingProgram\bin\Debug\TeachingProgram.exe.config
+D:\workspace for VB\TeachingProgram\TeachingProgram\bin\Debug\TeachingProgram.exe
+D:\workspace for VB\TeachingProgram\TeachingProgram\bin\Debug\TeachingProgram.pdb
+D:\workspace for VB\TeachingProgram\TeachingProgram\bin\Debug\TeachingProgram.xml
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.exe
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.xml
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.pdb
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.Consequence.resources
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.SoftwareInfo.resources
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.PictureShow.resources
+D:\workspace for VB\TeachingProgram\TeachingProgram\obj\Debug\TeachingProgram.vbprojResolveAssemblyReference.cache
